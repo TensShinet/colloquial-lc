@@ -2,7 +2,7 @@
 
 
 
-The lc of colloquial-lc is the acronym of leetcode. I will record the solutions to problems from leetcode conversationally in this project, which can make me more familiar with many terminologies from the field of computer science, especially in data structures and algorithms, and improve my spoken English.
+The 'lc' in 'colloquial-lc' stands for the LeetCode. I will record the solutions to problems from leetcode in a conversational style in this project, which can make me more familiar with many terminologies from the field of computer science, especially in data structures and algorithms, and improve my spoken English.
 
 
 
